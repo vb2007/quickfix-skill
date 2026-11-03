@@ -1,0 +1,3 @@
+# Codex: keep this skill manual-only (run it with $quickfix).
+policy:
+  allow_implicit_invocation: false
